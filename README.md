@@ -57,7 +57,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GustavoAmorim12&theme=tokyonight" />
 </p>
-
----
-
-### ✨ “Transformando conhecimento em soluções”
