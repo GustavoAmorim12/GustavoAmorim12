@@ -49,11 +49,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAmorim12&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
 </p>
-
----
-
-## ⌛ **WakaTime Stats:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GustavoAmorim12&theme=tokyonight" />
-</p>
