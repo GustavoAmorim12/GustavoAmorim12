@@ -42,14 +42,13 @@
 
 ## 📊 **GitHub Stats:**
 
-### 🛠️ Tecnologias e Linguagens Utilizadas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoAmorim12&show_icons=true&theme=tokyonight&locale=pt-br" alt="Gustavo Amorim Github Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAmorim12&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" />
+</p>
+
 
